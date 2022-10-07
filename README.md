@@ -1,6 +1,6 @@
 # My repo for learn 😀
 
-- 👋 Hi, I’m @wilmer-a0
+- 👋 Hi, I’m @willacetj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JS
 - 🥅 My goal is React
