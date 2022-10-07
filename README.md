@@ -1,4 +1,4 @@
-# MI REPOSITORIO PARA APRENDER Y CORREGIR 😀
+# My repo for learn and for reproving 😀
 
 - 👋 Hi, I’m @wilmer-a0
 - 👀 I’m interested in programming
