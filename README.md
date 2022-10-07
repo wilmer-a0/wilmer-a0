@@ -1,4 +1,4 @@
-# MI REPOSITORIO PARA APRENDER Y CORREGIR
+# MI REPOSITORIO PARA APRENDER Y CORREGIR 😀
 
 - 👋 Hi, I’m @wilmer-a0
 - 👀 I’m interested in programming
@@ -10,4 +10,3 @@ wilmer-a0/wilmer-a0 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Lo uso para aprender nuevas herramientas 😃
