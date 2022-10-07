@@ -1,4 +1,4 @@
-# My repo for learn and for reproving 😀
+# My repo for learn 😀
 
 - 👋 Hi, I’m @wilmer-a0
 - 👀 I’m interested in programming
